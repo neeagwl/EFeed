@@ -2,6 +2,8 @@
 .cache
 npm-debug.log
 Thumbs.db
+config/
+
 node_modules/
 .build/
 extensions/**/dist/
